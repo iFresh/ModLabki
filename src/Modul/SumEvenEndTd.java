@@ -7,7 +7,7 @@ public class SumEvenEndTd {
 
     public static void main(String[] args){
 
-        int a = 2;
+        int a = 4;
         int b = 14;
 
         int sumEven = 0;
